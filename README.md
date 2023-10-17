@@ -1,3 +1,6 @@
+# Screenshot
+![LandingPage](https://github.com/PriyamKumarGhosh/E-commerce-Landing_Page/assets/102907540/143374e6-b20c-471e-aef1-d0ec73b9da29)
+
 # Tailwind CSS and ReactJS Landing Page
 
 Welcome to our stunning landing page built with Tailwind CSS and ReactJS! Explore a seamless blend of cutting-edge design and dynamic functionality. 
